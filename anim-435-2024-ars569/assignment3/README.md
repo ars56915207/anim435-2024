@@ -1,5 +1,8 @@
 # anim435-2024
 Assignments for Pipeline Class
+
+## Sphere Ring Generator - Assignment 3
+
 # Overview
 
 This tool generates multiple rings of spheres with an increasing radius the larger the ring. It outputs a new scene titled ==spheresRings#.mb== (# is the iteration number)
