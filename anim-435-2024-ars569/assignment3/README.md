@@ -10,7 +10,7 @@ This tool generates multiple rings of spheres with an increasing radius the larg
 # Arguments
 
     -R <Rings>  # number of rings, the default is 5
-    -n <name>   # defines save name, do NOT include file extensions
+    -n <name>   # defines save name, do NOT include file extensions, the default is sphereRings
 
 # Usage
 
