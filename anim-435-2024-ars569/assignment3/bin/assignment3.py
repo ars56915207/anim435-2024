@@ -65,3 +65,4 @@ while os.path.exists(filepath):
 print("Saving Scene...")
 cmds.file(rename=filepath)
 cmds.file(save=True)
+print("Saved Scene:", filepath)

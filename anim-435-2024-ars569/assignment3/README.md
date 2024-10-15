@@ -5,7 +5,7 @@ Assignments for Pipeline Class
 
 # Overview
 
-This tool generates multiple rings of spheres with an increasing radius the larger the ring. It outputs a new scene titled ==spheresRings#.mb== (# is the iteration number)
+This tool generates multiple rings of spheres with an increasing radius the larger the ring. It outputs a new scene titled **spheresRings.mb**.
 
 # Arguments
 
